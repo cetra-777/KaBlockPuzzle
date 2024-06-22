@@ -9,14 +9,15 @@ Play the demo in your browser here:
 ``
 npx create-kaboom yourProjectName
 ``
-2. Copy over the src and www folder from the repository
+
+2. Copy over the src and www folder from the repository<br>
 
 3. Then update Kaplay with
 ``
 npm install kaplay@next
 ``
-4. Finally to start your dev server run:
 
+4. Finally to start your dev server run:
 ``
 npm run dev
 ``
